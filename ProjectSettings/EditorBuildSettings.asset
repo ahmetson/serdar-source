@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Init.unity
+    guid: 0907e2c66157b8c419be4cf3ceecb9c9
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 9bb5d4c9dd1c0614e9aedb9cec8d5e9f
+  - enabled: 1
+    path: Assets/Scenes/Options.unity
+    guid: 1a691e4e28ecc5b488f28eb3c2759346
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: f96e65ff74f0a3b49a6e0577db3fbf50
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: 2adcdf1390bb53e4cad75d6fe91fe985
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Intro.unity
+    guid: 000a95ec2c0841344b68ddb8530f345a
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Credits.unity
+    guid: f74c7f8ec6ceac549893f52c533e44cb
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/End.unity
+    guid: 1ced14b4b5b811844a6f47515de363b7
+  - enabled: 1
+    path: Assets/Scenes/Full Tutorial Scenes/Full Tutorial Scene 01.unity
+    guid: 50ebaef6fe90dc349832d89f1fcc93ca
+  - enabled: 1
+    path: Assets/Scenes/Full Tutorial Scenes/Full Tutorial Scene 02.unity
+    guid: 786ba650d76aba04ba03244d200fad31
+  - enabled: 1
+    path: Assets/Scenes/Level Completition.unity
+    guid: 52b44cd0991503447afa74446dc35f18
+  - enabled: 1
+    path: Assets/Scenes/Levels/001.unity
+    guid: 0dbd0aa0670e5f3418a6919c03a6c0a7
+  m_configObjects: {}
